@@ -1,0 +1,278 @@
+﻿Còn bạn?
+And you?
+
+Còn gì nữa không?
+Anything else?
+
+Chúng giống nhau không?
+Are they the same?
+
+Bạn sợ không?
+Are you afraid?
+
+Bạn sẽ dự đám cưới của họ không?
+Are you going to attend their wedding?
+
+Bạn có gia đình không?
+Are you married?
+
+Bạn có khỏe không?
+Are you okay?
+
+Bạn ốm hả?
+Are you sick?
+
+Sau ngân hàng.
+Behind the bank.
+
+Tôi có thể mượn một ít tiền không?
+Can I borrow some money?
+
+Làm ơn đưa phiếu tính tiền.
+Can I have the bill please?
+
+Bạn có thể gọi lại sau được không?
+Can you call back later?
+
+Bạn có thể gọi lại cho tôi sau được không?
+Can you call me back later?
+
+Bạn có thể mang giúp tôi cái này được không?
+Can you carry this for me?
+
+Bạn có thể sửa cái này không?
+Can you fix this?
+
+Bạn có thể cho tôi một thí dụ được không?
+Can you give me an example?
+
+Bạn có thể nói lớn hơn được không?
+Can you speak louder please?
+
+Làm sao bạn biết?
+How do you know?
+
+Bạn biết bơi không?
+Can you swim?
+
+Cô ta thế nào?
+How is she?
+
+Bạn có nhận đô Mỹ không?
+Do you accept U.S. Dollars?
+
+Nó dài bao nhiêu?
+How long is it?
+
+Bạn có bạn gái không?
+Do you have a girlfriend?
+
+Bao nhiêu?
+How many?
+
+Bạn có vấn đề à?
+Do you have a problem?
+
+Nó giá bao nhiêu?
+How much is it?
+
+Bạn có hẹn không?
+Do you have an appointment?
+
+Tôi có nhiều việc phải làm.
+I have a lot of things to do.
+
+Bạn có nghe cái đó không?
+Do you hear that?
+
+Trong vòng 30 phút.
+In 30 minutes.
+
+Bạn có biết đường tới khách sạn Marriott không?
+Do you know how to get to the Marriott Hotel?
+
+Còn ai khác tới không?
+Is anyone else coming?
+
+Mọi việc ổn không?
+Is everything ok?
+
+Bạn có biết cái này nghĩa là gì không?
+Do you know what this means?
+
+Bên ngoài trời lạnh không?
+Is it cold outside?
+
+Bạn có biết tôi có thể gọi tắc xi ở đâu không?
+Do you know where I can get a taxi?
+
+Nó cách xa đây không?
+Is it far from here?
+
+Bạn có biết cặp kính của tôi ở đâu không?
+Do you know where my glasses are?
+
+Nó nóng không?
+Is it hot?
+
+Bạn có thích bạn đồng nghiệp của bạn không?
+Do you like your co-workers?
+
+Trời đang mưa không?
+Is it raining?
+
+Bạn còn cần gì nữa không?
+Do you need anything else?
+
+Có thứ gì rẻ hơn không?
+Is there anything cheaper?
+
+Bạn có hiểu không?
+Do you understand?
+
+Con trai bạn có đây không?
+Is your son here?
+
+Anh ta có thích trường đó không/
+Does he like the school?
+
+Tôi nên đợi không?
+Should I wait?
+
+Đưa tôi cây viết.
+Give me the pen.
+
+Cái lớn hay cái nhỏ?
+The big one or the small one?
+
+Những chiếc xe là xe Mỹ.
+The cars are American.
+
+Đã có vấn đề gì không?
+Were there any problems?
+
+Bạn có ở thư viện tối qua không?
+Were you at the library last night?
+
+Bạn đang làm gì?
+What are you doing?
+
+Bạn đang nghĩ gì?
+What are you thinking about?
+
+Hai bạn đang nói chuyện gì?
+What are you two talking about?
+
+Tối qua bạn làm gì?
+What did you do last night?
+
+Hôm qua bạn làm gì?
+What did you do yesterday?
+
+Bạn đã nghĩ gì?
+What did you think?
+
+Họ học gì?
+What do they study?
+
+Bạn có gì?
+What do you have?
+
+Bạn nghĩ gì?
+What do you think?
+
+Điều gì đã xảy ra?
+What happened?
+
+Nó là cái gì?
+What is it?
+
+Đó là cái gì?
+What is that?
+
+Tôi nên mặc gì?
+What should I wear?
+
+Có gì trong nó?
+What's in it?
+
+Nhiệt độ bao nhiêu?
+What's the temperature?
+
+Cái gì đây?
+What's this?
+
+Có chuyện gì vậy?
+What's up?
+
+Bạn từ đâu tới?
+Where are you from?
+
+Tôi có thể thuê xe hơi ở đâu?
+Where can I rent a car?
+
+Nó đã xảy ra ở đâu?
+Where did it happen?
+
+Bạn đã học nó ở đâu?
+Where did you learn it?
+
+Anh ta từ đâu tới?
+Where is he from?
+
+Anh ta ở đâu?
+Where is he?
+
+Món nào ngon hơn, mì Ý hay rau gà?
+Which is better, the spaghetti or chicken salad?
+
+Bạn muốn cái nào?
+Which one do you want?
+
+Cái nào rẻ hơn?
+Which one is cheaper?
+
+Cái nào tốt nhất?
+Which one is the best?
+
+Anh ta học trường nào?
+Which school does he go to?
+
+Họ là ai?
+Who are they?
+
+Bạn đang tìm ai?
+Who are you looking for?
+
+Ai đây? (hỏi ai đang gọi điện thoại)
+Who is it?
+
+Ai dạy bạn cái đó?
+Who taught you that?
+
+Ai đang gọi?
+Who's calling?
+
+Người đàn ông đằng kia là ai?
+Who's that man over there?
+
+Tại sao bạn đã nói điều đó?
+Why did you say that?
+
+Làm ơn đưa giùm tôi lọ muối.
+Will you pass me the salt please?
+
+Làm ơn đặt cái này vào trong xe giúp tôi.
+Will you put this in the car for me?
+
+Làm ơn nói với anh ta gọi lại cho tôi.
+Would you ask him to call me back please?
+
+Vâng.
+Yes.
+
+Bạn có một chiếc xe rất đẹp.
+You have a very nice car.
+
+Bạn trông giống em gái (chị) của tôi.
+You look like my sister.

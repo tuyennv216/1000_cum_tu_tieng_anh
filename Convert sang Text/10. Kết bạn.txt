@@ -1,0 +1,280 @@
+﻿Bạn có phải là người Mỹ không?
+Are you American?
+
+Bạn có thích quyển sách này không?
+Do you like the book?
+
+Tối nay bạn tới không?
+Are you coming this evening?
+
+Bạn có cần gì không?
+Do you need anything?
+
+Tối nay bạn rảnh không?
+Are you free tonight?
+
+Bạn có chơi môn thể thao nào không?
+Do you play any sports?
+
+Bạn sẽ đi máy bay hay tàu hỏa?
+Are you going to take a plane or train?
+
+Bạn có bán dược phẩm không? (cửa hàng)
+Do you sell medicine?
+
+Bạn có đói không?
+Are you hungry?
+
+Bạn có học tiếng Anh không?
+Do you study English?
+
+Bạn chắc không?
+Are you sure?
+
+Bạn có muốn đi với tôi không?
+Do you want to come with me?
+
+Ngày mai bạn có làm việc không?
+Are you working Tomorrow?
+
+Việc làm ăn tốt.
+Business is good.
+
+Xin lỗi.
+Excuse me.
+
+Chúc sức khỏe!
+Cheers!
+
+Gọi điện cho tôi.
+Give me a call.
+
+Trời có tuyết hôm qua không?
+Did it snow yesterday?
+
+Anh (em trai) của bạn đã từng tới California chưa?
+Has your brother been to California?
+
+Bạn có nhận được email của tôi không?
+Did you get my email?
+
+Họ gặp cô ta chưa?
+Have they met her yet?
+
+Bạn đã uống thuốc chưa?
+Did you take your medicine?
+
+Bạn đã làm việc này trước đây chưa?
+Have you done this before?
+
+Bạn có cảm thấy khỏe hơn không?
+Do you feel better?
+
+Bạn đã ở đây bao lâu?
+How long have you been here?
+
+Bạn có thường đi Florida không?
+Do you go to Florida often?
+
+Bạn đã ở Mỹ bao lâu?
+How long have you been in America?
+
+Bạn có cái khác không?
+Do you have another one?
+
+Bạn đã sống ở đây bao lâu?
+How long have you lived here?
+
+Bạn có biết ở đâu có cửa hàng bán khăn tắm không?
+Do you know where there's a store that sells towels?
+
+Bạn có bao nhiêu người con?
+How many children do you have?
+
+Bạn có thích nơi đây không?
+Do you like it here?
+
+Bạn nói bao nhiêu ngôn ngữ?
+How many languages do you speak?
+
+Bạn có bao nhiêu người trong gia đình?
+How many people do you have in your family?
+
+Tôi không sợ.
+I'm not afraid.
+
+Bạn muốn bao nhiêu?
+How much would you like?
+
+Tôi ốm.
+I'm sick.
+
+Bạn bao nhiêu tuổi?
+How old are you?
+
+Nhà của bạn có giống căn nhà này không?
+Is your house like this one?
+
+Hôm qua tôi mua một cái áo sơ mi.
+I bought a shirt yesterday.
+
+Chồng của bạn cũng từ Boston hả?
+Is your husband also from Boston?
+
+Tôi không cảm thấy khỏe.
+I don't feel well.
+
+Nó không đắt lắm.
+It's not very expensive.
+
+Tôi bị đau ở tay.
+I have pain in my arm.
+
+Tôi đã ở đó.
+I've been there.
+
+Tôi phải giặt quần áo.
+I have to wash my clothes.
+
+Chúng ta hãy chia nhau.
+Let's share.
+
+Tôi có 2 người chị (em gái).
+I have two sisters.
+
+Con gái tôi ở đây.
+My daughter is here.
+
+Tôi nhớ.
+I remember.
+
+Bố tôi đã ở đó.
+My father has been there.
+
+Tôi nói một chút tiếng Anh.
+I speak a little English.
+
+Bố tôi là luật sư.
+My father is a lawyer.
+
+Tôi sẽ nói với anh ta là bạn đã gọi điện.
+I'll tell him you called.
+
+Bà tôi mất hồi năm ngoái.
+My grandmother passed away last year.
+
+Tôi 32
+I'm 32.
+
+Tên tôi là John Smith.
+My name is John Smith.
+
+Tôi cao 6'2"
+I'm 6'2".
+
+Con trai tôi học máy tính.
+My son studies computers.
+
+Tôi cỡ 8
+I'm a size 8.
+
+Con trai tôi. My son.
+
+Tôi dị ứng hải sản.
+I'm allergic to seafood.
+
+Không. Tôi là người Mỹ.
+No, I'm American.
+
+Tôi là người Mỹ.
+I'm American.
+
+Không, đây là lần đầu tiên.
+No, this is the first time.
+
+Tôi khỏe, còn bạn?
+I'm fine, and you?
+
+Các con tôi ở Mỹ.
+Our children are in America.
+
+Cô ta là chuyên gia.
+She's an expert.
+
+Cô ta lớn tuổi hơn tôi.
+She's older than me.
+
+Chiếc xe đó giống xe của tôi.
+That car is similar to my car.
+
+Đây là bà Smith.
+This is Mrs. Smith.
+
+Đây là mẹ tôi.
+This is my mother.
+
+Đây là lần đầu tiên tôi ở đây.
+This is the first time I've been here.
+
+Chúng tôi có hai trai và một gái.
+We have two boys and one girl.
+
+Bạn sẽ làm gì tối nay?
+What are you going to do tonight?
+
+Thú vui của bạn là gì?
+What are your hobbies?
+
+Bạn học gì?
+What do you study?
+
+Bạn muốn làm gì?
+What do you want to do?
+
+Bạn đã đi học trường nào?
+What school did you go to?
+
+Bộ phim ưa thích của bạn là phim gì?
+What's your favorite movie?
+
+Họ của bạn là gì?
+What's your last name?
+
+Tên của bạn là gì?
+What's your name?
+
+Áo thun ở đâu?
+Where are the t-shirts?
+
+Bạn đã đi đâu?
+Where did you go?
+
+Bạn đã học tiếng Anh ở đâu?
+Where did you learn English?
+
+Bạn đã làm việc ở đâu trước khi bạn làm việc ở đây?
+Where did you work before you worked here?
+
+Bạn sống ở đâu?
+Where do you live?
+
+Bạn đã ở đâu?
+Where were you?
+
+Ai đã gửi lá thư này?
+Who sent this letter?
+
+Bạn muốn mua cái này không?
+Would you like to buy this?
+
+Bạn nói tiếng Anh rất giỏi.
+You speak English very well.
+
+Các con của bạn rất ngoan.
+Your children are very well behaved.
+
+Con gái của bạn.
+Your daughter.
+
+Bạn thông minh hơn anh ta.
+You're smarter than him.

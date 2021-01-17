@@ -1,0 +1,171 @@
+﻿Bạn ở đây một mình hả?
+Are you here alone?
+
+Tôi có thể mang theo bạn không?
+Can I bring my friend?
+
+Làm ơn cho tôi hóa đơn.
+Can I have a receipt please?
+
+Có thể rẻ hơn không?
+Can it be cheaper?
+
+Làm ơn đưa xem thực đơn.
+Can we have a menu please.
+
+Bạn có thể giữ giùm tôi cái này được không?
+Can you hold this for me?
+
+Bạn có con không?
+Do you have any children?
+
+Bạn có biết nó giá bao nhiêu không?
+Do you know how much it costs?
+
+Bạn đã ăn ở nhà hàng này chưa?
+Have you eaten at that restaurant?
+
+Bạn đã ăn chưa?
+Have you eaten yet?
+
+Bạn đã từng ăn xúp khoai chưa?
+Have you ever had Potato soup?
+
+Anh ta thích nước trái cây nhưng anh ta không thích sữa.
+He likes juice but he doesn't like milk
+
+Rau của bạn đây.
+Here is your salad.
+
+Đây là món hàng bạn đặt.
+Here's your order.
+
+Nó có vị ra sao?
+How does it taste?
+
+Bao nhiêu người? (nhà hàng)
+How many people?
+
+Tôi đồng ý.
+I agree.
+
+Tôi đã không ở đó.
+I haven't been there.
+
+Tôi chưa ăn xong.
+I haven't finished eating.
+
+Tôi thích nó. I like it.
+
+Tôi chỉ có 5 đô la.
+I only have 5 dollars.
+
+Tôi nghĩ tôi cần gặp bác sĩ.
+I think I need to see a doctor.
+
+Tôi hiểu.
+I understand.
+
+Tôi muốn một phòng gần cửa sổ.
+I'd like a table near the window.
+
+Tôi muốn gọi sang Mỹ.
+I'd like to call the United States.
+
+Tôi sẽ gọi điện cho bạn.
+I'll give you a call.
+
+Tôi sẽ uống một tách trà, xin vui lòng.
+I'll have a cup of tea please.
+
+Tôi sẽ uống một ly nước, xin vui lòng.
+I'll have a glass of water please.
+
+Tôi từ Mỹ tới.
+I'm from America.
+
+Tôi sẽ đi ngủ.
+I'm going to bed.
+
+Tôi ở đây để làm ăn.
+I'm here on business.
+
+Tôi rất tiếc.
+I'm sorry.
+
+Hôm nay là 25 tháng 8.
+It's August 25th.
+
+Mùng 3 tháng 6.
+June 3rd.
+
+Thức ăn ngon.
+The food was delicious.
+
+Có vài trái táo trong tủ lạnh.
+There are some apples in the refrigerator.
+
+Có một nhà hàng gần đây.
+There's a restaurant near here.
+
+Có một nhà hàng ở đằng kia, nhưng tôi không nghĩ là nó ngon lắm.
+There's a restaurant over there, but I don't think it's very good.
+
+Anh phục vụ!
+Waiter!
+
+Cô phục vụ!
+Waitress!
+
+Chúng tôi có thể ăn thức ăn Ý hoặc Trung Hoa.
+We can eat Italian or Chinese food.
+
+Chúng tôi sẽ dùng 2 ly nước, xin vui lòng.
+We'll have two glasses of water please.
+
+Bạn sẽ dùng gì?
+What are you going to have?
+
+Bạn đề nghị gì?
+What do you recommend?
+
+Bạn muốn uống gì?
+What would you like to drink?
+
+Bạn muốn ăn gì?
+What would you like to eat?
+
+Địa chỉ email của bạn là gì?
+What's your email address?
+
+Máy rút tiền tự động ở đâu?
+Where is an ATM?
+
+Ở đâu có một bác sĩ nói tiếng Anh?
+Where is there a doctor who speaks English?
+
+Cái nào?
+Which one?
+
+Làm ơn nói anh ta tới đây.
+Would you ask him to come here?
+
+Bạn muốn một ly nước không?
+Would you like a glass of water?
+
+Bạn muốn uống cà phê hay trà? Would you like coffee or tea?
+
+Bạn muốn một ít nước không?
+Would you like some water?
+
+Bạn muốn một ít rượu không?
+Would you like some wine?
+
+Bạn muốn uống thứ gì không?
+Would you like something to drink?
+
+Bạn muốn đi dạo không?
+Would you like to go for a walk?
+
+Bạn muốn xem tivi không?
+Would you like to watch TV?
