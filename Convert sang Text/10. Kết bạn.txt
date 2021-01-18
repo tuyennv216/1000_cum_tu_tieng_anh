@@ -163,13 +163,13 @@ I'll tell him you called.
 Bà tôi mất hồi năm ngoái.
 My grandmother passed away last year.
 
-Tôi 32
+Tôi 32.
 I'm 32.
 
 Tên tôi là John Smith.
 My name is John Smith.
 
-Tôi cao 6'2"
+Tôi cao 6'2".
 I'm 6'2".
 
 Con trai tôi học máy tính.
@@ -178,7 +178,8 @@ My son studies computers.
 Tôi cỡ 8
 I'm a size 8.
 
-Con trai tôi. My son.
+Con trai tôi.
+My son.
 
 Tôi dị ứng hải sản.
 I'm allergic to seafood.

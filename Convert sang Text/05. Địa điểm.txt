@@ -124,7 +124,8 @@ We're from California.
 Hơn 200 dặm.
 More than 200 miles.
 
-Địa chỉ là gì? What's the address?
+Địa chỉ là gì?
+What's the address?
 
 Nhà tôi gần ngân hàng.
 My house is close to the bank.
@@ -132,7 +133,8 @@ My house is close to the bank.
 Bạn sẽ đi đâu?
 Where are you going?
 
-Gần ngân hàng. Near the bank.
+Gần ngân hàng.
+Near the bank.
 
 Nó ở đâu?
 Where is it?

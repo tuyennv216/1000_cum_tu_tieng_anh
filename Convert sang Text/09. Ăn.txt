@@ -55,7 +55,8 @@ I haven't been there.
 Tôi chưa ăn xong.
 I haven't finished eating.
 
-Tôi thích nó. I like it.
+Tôi thích nó.
+I like it.
 
 Tôi chỉ có 5 đô la.
 I only have 5 dollars.
@@ -153,7 +154,8 @@ Would you ask him to come here?
 Bạn muốn một ly nước không?
 Would you like a glass of water?
 
-Bạn muốn uống cà phê hay trà? Would you like coffee or tea?
+Bạn muốn uống cà phê hay trà?
+Would you like coffee or tea?
 
 Bạn muốn một ít nước không?
 Would you like some water?
