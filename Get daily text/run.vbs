@@ -83,7 +83,7 @@ Do Until endOfFile
 	if (wordCount mod wordBatch = 0) or (endOfFile = true) Then
 		if len(batchContent) > 0 then
 			
-			Set writer = fso.CreateTextFile(folderBatch & "\Batch_" & (wordCount - 49) & "-" & wordCount & ".txt",True)
+			Set writer = fso.CreateTextFile(folderBatch & "\Batch_" & pad(wordCount - 49, 4) & "-" & pad(wordCount, 4) & ".txt",True)
 			writer.Write batchContent
 			writer.Close
 			
@@ -97,7 +97,7 @@ Do Until endOfFile
 	if (wordCount mod wordPerDay = 0) or (endOfFile = true) Then
 		if len(fileContent) > 0 then
 			
-			Set writer = fso.CreateTextFile(folderDaily & "\Day_" & fileCount & ".txt",True)
+			Set writer = fso.CreateTextFile(folderDaily & "\Day_" & pad(fileCount, 3) & ".txt",True)
 			writer.Write fileContent
 			writer.Close
 			
@@ -118,3 +118,14 @@ Wscript.Quit
 Msgbox "En length: " & en.Count
 Msgbox "Vi length: " & vi.Count
 Msgbox "Tmp length: " & tmp.Count
+
+Wscript.Quit
+' function
+function pad(num, cnt)
+	num = num & ""
+	repeat = 0
+	if len(num) < cnt then
+		repeat = cnt - len(num)
+	end if
+	pad = string(repeat, "0") & num
+end function
