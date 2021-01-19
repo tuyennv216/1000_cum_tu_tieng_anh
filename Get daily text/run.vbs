@@ -1,6 +1,6 @@
 ' setup
 filename = "All Text.txt"
-wordPerDay = 10
+wordPerDay = 5
 wordRepeat = 5
 wordBatch = 50
 
